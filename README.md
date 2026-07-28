@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
