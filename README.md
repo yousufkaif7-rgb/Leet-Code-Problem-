@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0078-subsets) |
 | [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0063-unique-paths-ii) |
 ## Trie
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0055-jump-game) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
