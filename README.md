@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0014-longest-common-prefix) |
 | [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0010-regular-expression-matching) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
