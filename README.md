@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Math
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
 ## String
 |  |
 | ------- |
@@ -34,8 +36,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0002-add-two-numbers) |
+| [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
