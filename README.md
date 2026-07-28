@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0013-roman-to-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Geometry
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
 ## String
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
