@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0029-divide-two-integers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Geometry
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
