@@ -58,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0242-valid-anagram) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0242-valid-anagram) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
