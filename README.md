@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0078-subsets) |
 | [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Math
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -100,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
