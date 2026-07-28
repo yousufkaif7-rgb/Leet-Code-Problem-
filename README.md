@@ -128,14 +128,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0140-word-break-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
