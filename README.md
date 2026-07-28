@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0002-add-two-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Geometry
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
