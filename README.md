@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0139-word-break) |
 | [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Math
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0705-design-hashset) |
 ## String
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -93,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0063-unique-paths-ii) |
+| [0139-word-break](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0139-word-break) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0063-unique-paths-ii) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
