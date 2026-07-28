@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0078-subsets) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0140-word-break-ii) |
