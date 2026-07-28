@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0078-subsets) |
 ## Stack
 |  |
