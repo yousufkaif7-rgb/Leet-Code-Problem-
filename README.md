@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0014-longest-common-prefix) |
+| [0045-jump-game-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0078-subsets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0063-unique-paths-ii) |
 ## Trie
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0055-jump-game) |
 ## Matrix
 |  |
