@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0043-multiply-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Geometry
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/0137-single-number-ii) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/yousufkaif7-rgb/Leet-Code-Problem-/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Tree
 |  |
 | ------- |
